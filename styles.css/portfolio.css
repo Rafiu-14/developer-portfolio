@@ -130,3 +130,21 @@ main{
 .about-info{
     text-align: center;
 }
+
+#what-i-do-description{
+    padding: 30px 150px;
+    font-size: 18px;
+}
+
+.skill-container{
+    display: flex;
+}
+
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
+
+.skill-description{
+    
+}
